@@ -1,0 +1,1 @@
+{"serverConfig": {"mcpServers": {"AstAnalyzer": {"command": "uvx", "args": ["--from", "iflow-mcp_angrysky56-ast-mcp-server", "ast-mcp-server", "--transport", "stdio"], "values": {}}}}}
