@@ -3,7 +3,7 @@ requires = ["hatchling>=1.21.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ast-mcp-server"
+name = "iflow-mcp_angrysky56-ast-mcp-server"
 version = "0.2.0"
 description = "An MCP server that provides code structure and semantic analysis capabilities through Abstract Syntax Trees (AST) and Abstract Semantic Graphs (ASG)"
 readme = "README.md"
@@ -31,7 +31,7 @@ keywords = [
   "tree-sitter",
   "semantic-analysis",
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
   "mcp[cli]>=0.11.1",
   "tree-sitter>=0.25.2",
